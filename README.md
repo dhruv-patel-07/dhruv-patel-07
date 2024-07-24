@@ -9,7 +9,7 @@
 
 
 ## About me
-Hello!👋🏻 I'm Dhurv Patel, an enthusiastic and motivated individual eager to embark on a career as a full-stack developer. I recently graduated with a degree in Computer Science and am excited to apply my knowledge and skills to real-world projects.
+Hello!👋🏻 I'm Dhurv Patel, an enthusiastic and motivated individual eager to embark on a career as a full-stack developer. I recently graduated with a degree in Bachelor of computer application and am excited to apply my knowledge and skills to real-world projects.
 
 
 ## Get in touch :coffee:
