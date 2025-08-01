@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br><br>
-  <img src="https://komarev.com/ghpvc/?username=perisicnikola37" />
+  <img src="https://komarev.com/ghpvc/?username=dhruv-patel-07" />
 </p>
 
 
