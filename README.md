@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/dhruv-patel-07/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=perisicnikola37" />
 </p>
 
 
